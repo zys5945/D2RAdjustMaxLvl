@@ -1,0 +1,18 @@
+{
+  "name": "Adjust Max Level",
+  "description": "Adjusts the max level of characters",
+  "author": "zys5945",
+  "website": "",
+  "version": "1.0",
+  "config": [
+    {
+      "id": "maxLevel",
+      "type": "number",
+      "name": "Max Level",
+      "description": "Sets the max level of characters",
+      "defaultValue": 127,
+      "minValue": 1,
+      "maxValue": 127
+    }
+  ]
+}
