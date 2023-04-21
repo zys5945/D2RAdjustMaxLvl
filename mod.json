@@ -2,7 +2,7 @@
   "name": "Adjust Max Level",
   "description": "Adjusts the max level of characters",
   "author": "zys5945",
-  "website": "",
+  "website": "https://github.com/zys5945/D2RAdjustMaxLvl",
   "version": "1.0",
   "config": [
     {
